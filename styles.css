@@ -1,23 +1,23 @@
 /*  your css code here. If applicable */
-.navbar {
+.container {
             background-color: #D3D3D3;
             padding: 10px;
         }
 
         /* Style for the list items in the nav-bar */
-        .navbar ul {
+        .container ul {
             list-style: none;
             margin: 0;
             padding: 0;
         }
 
-        .navbar li {
+        .container li {
             display: inline;
             margin-right: 1rem;
         }
 
         /* Style for links in the nav-bar */
-        .navbar a {
+        .container a {
             text-decoration: none;
             color: #000; /* You can change the color as desired */
         }
