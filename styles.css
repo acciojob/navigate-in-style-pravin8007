@@ -3,7 +3,7 @@ nav{
 	background-color : #D3D3D3 ;
 	padding : 10px;
 }
-ul,li{
+li{
 	display : inline;
 	margin-right : 1rem ;
 	list-style-type : none;
